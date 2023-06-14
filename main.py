@@ -2,7 +2,7 @@ import random
 
 
 def select_random_question():
-    with open("questions.txt", "r") as file:
+    with open("questions.txt", "r", encoding="utf-8") as file:
         questions = file.readlines()
     return random.choice(questions).strip()
 
@@ -10,7 +10,7 @@ def select_random_question():
 def question_amount_choice():
     while True:
         try:
-            question_amount = int(input("How many questions would you like? "))
+            question_amount = int(input("How many questions would you like?\n"))
 
             if question_amount > 0:
                 return question_amount
@@ -25,7 +25,6 @@ def question_amount_choice():
 def main():
     while True:
         question_amount = question_amount_choice()
-        print()
 
         for _ in range(question_amount):
             question = select_random_question()
@@ -33,7 +32,6 @@ def main():
 
         more_questions = input("\nWould you like to view more questions? "
                                "(Yes/No)\n")
-        print()
 
         if more_questions.lower() != "yes":
             break
