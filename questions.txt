@@ -1,0 +1,73 @@
+What is Python? What are the benefits of using Python?
+What is the difference between list and tuples in Python?
+How is memory managed in Python?
+What are the tools that help to find bugs or perform static analysis?
+What are Python namespaces? Why are they used?
+Explain how to delete a file in Python.
+What are python modules? Name some commonly used built-in modules in Python.
+What is the difference between Python Arrays and lists?
+Is Django better than Flask?
+Mention the differences between Django, Pyramid, and Flask.
+What is the difference between NumPy and SciPy?
+How can you copy an object in Python?
+How can you convert a string?
+Is Python and multi-threading a good idea? List some ways to get some Python code to run in a parallel way.
+What is monkey patching in Python and is it ever a good idea?
+What would you say are the most common mistakes made using Python?
+How would you display a file’s contents in reversed order?
+How would you perform unit testing on your Python code?
+How do you keep track of different versions of your code?
+How do you debug a Python program?
+How would you sort a dictionary in Python?
+What are the data types in Python?
+How long have you spent coding primarily in Python?
+Do you use Python in any of your personal projects?
+Tell me something you don’t like about Python.
+What can you offer us that nobody else can?
+Tell me a little about yourself.
+How would people describe you?
+Would you say you work better independently or on a team?
+What’s your biggest weakness?
+Describe your work style.
+What do you do in your spare time?
+What motivates you?
+Where do you see yourself in five years?
+What project are you most proud of?
+What can we expect from you in the first three months?
+Do you like to participate in the analysis, design, and deployment phases of a project, or do you prefer to concentrate on the pure development of a well-described task? Why?
+What do you do if there’s a disagreement within your team?
+Are you comfortable giving in-depth presentations?
+Are you able to explain complex technologies in simple terms?
+What is your preferred way of communication with the team?
+How do you convince someone to agree with you?
+How to deal with a team member who disagrees with you?
+Have you ever worked directly with clients or have been in a customer-facing role in the past? If not, would you like to?
+What was the last presentation you gave?
+What are the qualities of a successful team or project leader?
+What was the most interesting project you have participated in? Can you describe it and tell me why you consider it to be so interesting?
+Tell me about a time when you handled a challenging situation.
+Tell me about a time when you were in conflict with a peer and how the situation was resolved.
+Tell me about a time you had to work under pressure.
+Give me an example of a time you made a decision that was unpopular. Explain how you handled implementing it.
+Share an example of how you were able to motivate a coworker or your team.
+Tell me about a goal you achieved and how you achieved it.
+Tell me about a goal you failed to achieve.
+Tell me about a time you felt you went above and beyond.
+Why do we use join() function in Python?
+Give an example of shuffle() method?
+How do you find bugs or perform static analysis in a Python application?
+What are the different ways to create an empty NumPy array in Python?
+What are the principal differences between the lambda and def?
+What is the output of L[1:] if L = [1,2,3]?
+How would you take input from the user in Python?
+How do you terminate a line of code in Python?
+Merge two sorted linked lists.
+Write a function that counts the total of set bits in a 32-bit integer.
+Given a string as your input, delete any recurring character and return the new string.
+Tell me about a time when you took a risk and failed.
+What is the most complex thing you know a lot about? Teach me about it.
+What scares you?
+Given a list and a number, find two numbers in the list that sums up to the number given.
+What steps do you take to keep your skills current?
+What motivates you to excel in a role?
+Tell me about a project where your initial assumptions ended up being incorrect. How did you move forward after?
